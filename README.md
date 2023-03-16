@@ -1,3 +1,3 @@
-# Learn2code
+# vLearn2code
 
 I'll be learning how to code the basics in JS here. 
