@@ -1,3 +1,3 @@
+# I'll be learning how to code the JS basics here
 
-
-I'll be learning how to code the basics here. 
+console.log("Hello, World!");
