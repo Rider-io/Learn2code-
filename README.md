@@ -5,7 +5,6 @@ console.log("Hello, World!");
 
 
 // Define a function that takes two parameters
-
 function addNumbers(num1, num2) {
   // Add the two numbers together and store the result in a variable
   var sum = num1 + num2;
