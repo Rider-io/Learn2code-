@@ -3,7 +3,7 @@
 ```javascript
 console.log("Hello, World!");
 
-```javascript
+
 // Define a function that takes two parameters
 function addNumbers(num1, num2) {
   // Add the two numbers together and store the result in a variable
