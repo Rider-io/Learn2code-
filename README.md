@@ -25,6 +25,13 @@ console.log(): This function is used to output text or values to the console.
 
 console.log("Hello, World!");
 
+
 alert(): This function is used to display an alert message to the user.
 
 alert("This is an alert message!");
+
+
+prompt(): This function is used to ask the user for input.
+
+let name = prompt("What is your name?");
+console.log("Hello, " + name + "!");
