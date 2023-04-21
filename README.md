@@ -21,6 +21,8 @@ console.log(result); // Output: 5
 
 # Basic Functions
 
+console.log(): This function is used to output text or values to the console.
+
 console.log("Hello, World!");
 
-
+alert(): This function is used to display an alert message to the user.
