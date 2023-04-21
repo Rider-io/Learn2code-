@@ -17,3 +17,10 @@ var result = addNumbers(2, 3);
 
 // Print the result to the console
 console.log(result); // Output: 5
+
+
+# Basic Functions
+
+console.log("Hello, World!");
+
+
