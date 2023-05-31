@@ -1,6 +1,7 @@
-<h1> I'll be learning how to code the JS basics here <h1>
-  
- <body>
+ I'll be learning how to code the JS basics here
+
+   
+   
 ```javascript
 console.log("Hello, World!");
 
