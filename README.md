@@ -1,4 +1,4 @@
-# I'll be learning how to code the JS basics here 
+I'll be learning how to code the JS basics here 
 
 ```javascript
 console.log("Hello, World!");
