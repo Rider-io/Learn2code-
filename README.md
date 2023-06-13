@@ -39,3 +39,28 @@ prompt(): This function is used to ask the user for input.
 
 let name = prompt("What is your name?");
 console.log("Hello, " + name + "!");
+
+
+
+
+let randomNumber = Math.floor(Math.random() * 100);
+
+function playGame() {
+  let randomNumber = Math.floor(Math.random() * 100);
+
+  // Get the user's guess.
+  let userGuess = prompt("Guess a number between 0 and 100: ");
+
+  // Check if the user guessed correctly.
+  if (userGuess === randomNumber) {
+    alert("You guessed correctly!");
+  } else {
+    alert("You guessed incorrectly. The correct number was " + randomNumber);
+  }
+}
+
+
+
+
+
+
