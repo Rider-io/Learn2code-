@@ -60,7 +60,32 @@ function playGame() {
 }
 
 
+<h2> Bouncy Ball 
+ 
+ // This code creates a simple animated bouncing ball
 
+var ball = {
+  x: 50,
+  y: 50,
+  vx: 10,
+  vy: 10
+};
 
+function update() {
+  ball.x += ball.vx;
+  ball.y += ball.vy;
 
+  if (ball.x < 0 || ball.x > window.innerWidth) {
+    ball.vx = -ball.vx;
+  }
 
+  if (ball.y < 0 || ball.y > window.innerHeight) {
+    ball.vy = -ball.vy;
+  }
+}
+
+window.addEventListener('mousemove', function(e) {
+  ball.x = e.x;
+});
+
+setInterval(update, 20);
