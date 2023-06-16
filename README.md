@@ -60,7 +60,7 @@ function playGame() {
 }
 
 
-<h2> Bouncy Ball <h2/>
+<h2> Bouncy Ball </h2>
  
  // This code creates a simple animated bouncing ball
 
