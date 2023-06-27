@@ -71,7 +71,7 @@ var ball = {
   vy: 10
 };
 
-function update() {
+function update() 
   ball.x += ball.vx;
   ball.y += ball.vy;
 
